@@ -14,6 +14,8 @@ print("\n")
 print("The result of and operation is : ",first_no & second_no)
 print("The result of or operation is : ",first_no | second_no)
 print("The result of Xor operation is : ",first_no ^ second_no)
+print("The complement of First No is : ",~first_no)
+print("The complement of Second No is :",~second_no)
 
 
 print("\n")
