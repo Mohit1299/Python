@@ -10,6 +10,6 @@ else:
     res_angle = minute_angle - hour_angle
 
 if(res_angle > 180):
-    print(360-res_angle)
+    print("The Smaller angle between the clock hands is : ",360-res_angle)
 else:
-    print(res_angle)
+    print("The smaller angle between the clock hands is : ",res_angle)
