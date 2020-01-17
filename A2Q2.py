@@ -14,6 +14,8 @@ print("\n")
 print("The result of and operation is : ",first_no & second_no)
 print("The result of or operation is : ",first_no | second_no)
 print("The result of Xor operation is : ",first_no ^ second_no)
+print("The complement of First No is : ",~first_no)
+print("The complement of Second No is :",~second_no)
 
 
 print("\n")
@@ -29,5 +31,5 @@ print("The result of (< ) comparison operator is : ",first_no<second_no)
 
 print("\n")
 #left and right shift
-print("The first NO after being left shift by 4 is : ",first_no<<4)
-print("The second NO after being right shift by 3 is :",second_no>>3)
+print("The first_no after being left shift by 4 is : ",first_no<<4)
+print("The second_no after being right shift by 3 is :",second_no>>3)
